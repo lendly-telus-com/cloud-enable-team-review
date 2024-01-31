@@ -43,8 +43,9 @@
 
 `Looker Studio`
 
+![Diagram of the FourKeys Design](docs/image/unleash.png)
+
 - Data Analysis reporting and chargeback
-  ![Diagram of the FourKeys Design](docs/image/unleash.png)
 
 ## Future technologies
 
